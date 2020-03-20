@@ -7,8 +7,8 @@
         
         
         <title>DTU Supermileage</title>
-        <link rel="stylesheet" href="https://github.com/thebhaskar01/thebhaskar01.github.io/blob/master/bootstrap.min.css">
-        <link rel="stylesheet" href="https://github.com/thebhaskar01/thebhaskar01.github.io/blob/master/smvcss.css">
+        <link rel="stylesheet" href="thebhaskar01.github.io/bootstrap.min.css">
+        <link rel="stylesheet" href="thebhaskar01.github.io/smvcss.css">
         <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Amiri&display=swap" rel="stylesheet">
