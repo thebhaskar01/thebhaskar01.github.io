@@ -7,8 +7,8 @@
         
         
         <title>DTU Supermileage</title>
-        <link rel="stylesheet" href="bootstrap.min.css">
-        <link rel="stylesheet" href="smvcss.css">
+        <link rel="stylesheet" href="thebhaskar01.github.io/bootstrap.min.css">
+        <link rel="stylesheet" href="thebhaskar01.github.io/smvcss.css">
         <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Amiri&display=swap" rel="stylesheet">
@@ -24,7 +24,7 @@
                     <ul id="navlist" class="nav navbar-nav">
                        <li>
                             <a href="#">
-                                <img src="smvlogoheader.png" style="width: 85%; height: auto">
+                                <img src="thebhaskar01.github.io/smvlogoheader.png" style="width: 85%; height: auto">
                             </a>
                         </li>
                         <li>
@@ -62,7 +62,7 @@
     <div id="maincontent">
       <div id="name" class="container">
           <div id="smvlogo">
-             <img src="crop.png" class="img-responsive img-circle center-block">
+             <img src="thebhaskar01.github.io/crop.png" class="img-responsive img-circle center-block">
               
           </div><!--smvlogo-->
           <div id="smvname" class="text-center">
@@ -74,7 +74,7 @@
       
       <div id="aboutus" class="container-fluid row">
          <div id="aboutusphoto" class=" pull-left col-lg-6 col-md-6 col-sm-12">
-            <img src="DSC_0453.JPG" class="img-responsive center-block">
+            <img src="thebhaskar01.github.io/DSC_0453.JPG" class="img-responsive center-block">
              
          </div><!--dtulogo-->
 
@@ -97,7 +97,7 @@
              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sit amet dolor a pretium. Proin consequat fermentum dictum. Nunc id nisl congue nisl luctus rhoncus. Nam mi massa, posuere non quam nec, porta venenatis turpis. Curabitur pulvinar, leo vel vehicula pretium, ligula leo dapibus lorem, vitae varius ligula sapien in ante. Duis hendrerit mauris ligula, eu convallis lectus vestibulum ut. Donec cursus justo ac ipsum luctus efficitur. Etiam ut est dignissim, dignissim nunc sit amet, placerat mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse tempus, erat nec suscipit elementum, purus elit varius augue, malesuada convallis neque erat at mauris. Duis in magna venenatis, rhoncus nibh id, egestas nisl. Pellentesque ut accumsan velit. Mauris luctus laoreet leo. Nam quis purus elit.</p>
          </div >
            <div id="semphoto" class="pull-right col-lg-6 col-md-6 col-sm-12">
-            <img src="DSC_0453.JPG" class="img-responsive center-block">
+            <img src="thebhaskar01.github.io/DSC_0453.JPG" class="img-responsive center-block">
              
          </div><!--semphoto-->
          
