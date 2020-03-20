@@ -1,0 +1,138 @@
+body{
+    background: url(/bootstrap-3.3.7-dist/js/photos/IMG_20191028_172137-01.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+    background-color: rgb(0,0,0,.7);
+    border-radius: 0;
+    border: 0;
+}
+
+#navlist{
+    font-size: 1.2em;
+   
+}
+
+#navlist a{
+    color: #fff;
+    text-decoration: bold;
+    text-transform: capitalize;
+}
+
+#navlist li{
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+
+#navlist a:hover {
+  background: rgb(0,0,0,1);
+}
+
+#maincontent{
+    margin-top: 10%;
+}
+
+#smvlogo .img-responsive{
+    width: 30%;
+    height: auto;
+    
+}
+
+#smvname{
+    margin-top: 10px;
+    font-family: 'Amiri', serif;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px rgb(0,0,1);
+    
+}
+
+#smvname h1{
+    font-size: 4.25em;
+   
+}
+
+#smvname h3{
+    font-size: 2em;
+}
+
+#aboutus{
+    margin-top: 30%;
+    background-color: rgb(0,0,0,.8);
+    padding-top: 15px;
+    padding-bottom: 60px;
+    font-size: 1.3em;
+}
+
+#aboutus h3{
+    font-size: 1.5em;
+}
+
+#aboutusphoto{
+    padding: 20px 100px 0 100px;
+}
+
+#quote{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Lobster', cursive;
+    text-shadow: 3px 3px 3px rgb(0,0,1);
+}
+
+#sem{
+   background-color: rgb(0,0,0,.8);
+    padding-top: 15px;
+    padding-bottom: 60px;
+    font-size: 1.3em;
+}
+
+#sem h3{
+    font-size: 1.5em;
+}
+
+#semtext{
+    padding-left: 40px;
+}
+
+#semphoto{
+    padding: 20px 50px 0 150px;
+}
+
+#ourmission{
+    background-color: rgb(0,0,0,.8);
+    padding-top: 15px;
+    padding-bottom: 60px;
+    font-size: 1.3em;
+}
+
+#ourmission h2{
+    text-align: center;
+    font-size: 2em;
+}
+
+#ourmission hr{
+    margin-top: 30px;
+    width: 10vw;
+    margin-bottom: 50px;
+    color: #fff;    
+}
+
+#mission1, #mission2, #mission3 {
+  height: 250px;    
+  margin-bottom: 15px;
+  position: relative;
+}
+
+#mission1:hover, #mission2:hover, #mission3:hover {
+  box-shadow: 0 1px 5px 1px #cccccc;
+
+
+
+
